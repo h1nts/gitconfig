@@ -37,7 +37,7 @@ Nessa etapa, o pbcopy vai ajudar a copiar a chave:
 ## 5. Configurar o Git
 
 
-Aqui você está garantindo que cada pasta que vc vai concentrar os reposotório de cada conta, terá seu próprio gitconfig.
+Aqui você está garantindo que cada pasta que você vai concentrar os repositório de cada conta, terá seu próprio gitconfig.
 
 Abra o arquivo de configuração do Git:
 ```sh
@@ -84,7 +84,7 @@ No caso acima, consideramos que o codigo da empresa 1 no github é empresa-1.
 
 ## 6. Configurar o arquivo SSH
 
-Nessa etapa você vai aproveitar o alias que deu ao host, para informar ao seu ssh qual configuração específica é necessária para cada host, incluindo a chave ssh.
+Nessa etapa você vai aproveitar o aliás que deu ao host, para informar ao seu ssh qual configuração específica é necessária para cada host, incluindo a chave ssh.
 
 Abra o arquivo de configuração do SSH:
 ```sh
@@ -120,7 +120,7 @@ Host *
 
 ## 7. Remover o remoto do Git de cada repositório e readicionar
 
-Por ultimo você altera o remoto de cada repositório conforme o aliás configurado.
+Por último você altera o remoto de cada repositório conforme o aliás configurado.
 
 Exemplo para o repositório `exemple-repository`:
 ```sh
