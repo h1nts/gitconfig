@@ -61,7 +61,7 @@ Cole o seguinte conteúdo:
 [includeIf "gitdir:~/gits/empresa1/"]
     path = ~/gits/empresa1/.gitconfig
 
-[includeIf "gitdir:~/gits/empresa1/"]
+[includeIf "gitdir:~/gits/empresas/"]
     path = ~/gits/empresa2/.gitconfig
 
 [includeIf "gitdir:~/gits/pessoal/"]
@@ -126,3 +126,6 @@ Exemplo para o repositório `exemple-repository`:
 ```sh
 git remote set-url origin empresa1:empresa-1/exemple-repository.git
 ```
+
+Pronto... Gostou? Deixa um star ali no cantinho...
+Vlw!
